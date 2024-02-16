@@ -22,7 +22,7 @@ function ActOnGoals() {
   const [isInnerCardOpen, setIsInnerCardOpen] = useState(false);
   const [showdiv, setshowdiv] = useState(false);
 function handleClick(){
-  console.log("called")
+   console.log("calling Qna ")
 setshowdiv(true)
 }
   return (
